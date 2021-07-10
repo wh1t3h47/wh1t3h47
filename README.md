@@ -42,4 +42,5 @@
 
 > # Estatística de repositórios:
 >
+> <img src="./summary.jpg" />
 > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WH1T3H47)]
