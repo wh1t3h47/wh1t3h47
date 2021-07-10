@@ -13,7 +13,7 @@
 >
 > Quando tinha 14 anos aprendi a programar em Python, mas antes disso tinha experiência com Linux e bash.
 > 
-> Minha paixão por estudar veio de minha mãe, que era doutora, mas infelizmente faleceu... Todo dia sonho em me tornar uma pessão tão brilhante quanto ela!
+> Minha paixão por estudar veio de minha mãe, que era doutora, mas infelizmente faleceu... Todo dia sonho em me tornar uma pessoa tão brilhante quanto ela!
 
 ## Habilidades
 
