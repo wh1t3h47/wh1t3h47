@@ -9,7 +9,7 @@
 ## Quem sou?
 > Desde que tinha 6 anos lembro ser fascinado por eletrônica, tinha meu brinquedo que era um mini laboratório de eletrônica.
 >
-> Aos 12 anos descobri um livro do Malvino e outro sobre microcontroladores e microprocessadores, aprendi muito sobre o funcionamento e como construir uma CPU de arquitetura SAP (Simple As Possible).
+> Aos 12 anos descobri um livro do Malvino e outro sobre microcontroladores e microprocessadores, aprendi muito sobre o funcionamento e lógica dos computadores e como construir uma CPU de arquitetura SAP (Simple As Possible).
 >
 > Quando tinha 14 anos aprendi a programar em Python, mas antes disso tinha experiência com Linux e bash.
 > 
