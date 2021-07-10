@@ -42,5 +42,4 @@
 
 > # Estatística de repositórios:
 >
-> <img src="./summary.jpg" />
-> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WH1T3H47)]
+> <img src="./Screenshot_2021-07-10 Github Profile Summary - Visualize your GitHub profile.png" />
