@@ -15,4 +15,6 @@
 
 ## Habilidades
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=wh1t3h47)
+> ![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=wh1t3h47)
+>
+> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WH1T3H47)]
