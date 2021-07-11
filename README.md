@@ -15,7 +15,7 @@
 > 
 > Minha paixão por estudar veio de minha mãe, que era doutora, mas infelizmente faleceu... Todo dia sonho em me tornar uma pessoa tão brilhante quanto ela!
 
-## Estatística do Github:
+## Estatística do Perfil:
 
 > ![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=wh1t3h47)
 
