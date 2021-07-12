@@ -79,7 +79,7 @@
 
 </table>
 <div style="width: 100%" align="center">
-<a href="#" disabled=""> <img alt="Antonio's github trophy" src="https://github-profile-trophy.vercel.app/?username=wh1t3h47&row=1" /> </a>
+<a href="#" disabled=""> <img alt="Antonio's github trophy" src="https://github-profile-trophy.vercel.app/?username=wh1t3h47&row=1" disabled="" /> </a>
 </div>
 
 ## Quem sou?
