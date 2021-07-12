@@ -107,11 +107,11 @@
 |-----------------------------------------------------------------------------------------------------------------------------------------|
 | <p align="center"> [![Antonio's github streak](https://github-readme-streak-stats.herokuapp.com/?user=wh1t3h47)](#) </p>                |
 |                                                                                                                                         |
-| <h3 align="center"> Estatística de repositórios: </h3>                                                                                  |
+| <h3 align="center"> Estatística dos meus repositórios: </h3>                                                                            |
 | <a href="#"> <img src="./Screenshot_2021-07-10 Github Profile Summary - Visualize your GitHub profile.png" /> </a>                      |
 
 
 
 
-## Top distros
+## Top distros:
 > <div align="center"> <a href="#" <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /> <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /><img src="https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&logo=lineageos&logoColor=white" /> <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" /> </a> </div>
