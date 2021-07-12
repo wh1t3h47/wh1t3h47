@@ -78,9 +78,9 @@
   </tr>
 
 </table>
-
-<span align="center"> [![Antonio's github trophy](https://github-profile-trophy.vercel.app/?username=wh1t3h47&row=1)](#) </sp>
-	
+<div style="width: 100%" align="center">
+<img alt="Antonio's github trophy" src="https://github-profile-trophy.vercel.app/?username=wh1t3h47&row=1" />
+</div>
 
 ## Quem sou?
 > Desde que tinha 6 anos lembro ser fascinado por eletrônica, tinha meu brinquedo que era um mini laboratório de eletrônica.
