@@ -2,8 +2,8 @@
 
 |                                **Email**                                                                   |  **Discord**   | **Linkedin** | **StackOverflow** | **Unix StackExchange** | **SoloLearn** |
 |--------------------------------------------------------------------------------------------------------|------------|-------|------------------|--------------|-----------------------------|
-| <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> | <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> | <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> | <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /> | <img src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white" /> | <img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" /> |
-|                [**Email**](mailto:tom.mharres@gmail.com)                      | pytom#0224 | [**Antônio**](https://www.linkedin.com/in/ant%C3%B4nio-martos-harres-5b85a91b4/) | [**Overclocked Skid**](https://stackoverflow.com/users/5951911/overclocked-skid) | [**Overclocked-Skid**](https://unix.stackexchange.com/users/144371/overclocked-skid)  | [**Antônio**](https://www.sololearn.com/profile/532145) |
+| <p align="center"> [![Antonio's Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tom.mharres@gmail.com) <p> | <p align="center"> [![Antonio's Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com) </p> | <p align="center"> [![Antonio's Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ant%C3%B4nio-martos-harres-5b85a91b4/) </p> | <p align="center"> [![Antonio's Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5951911/overclocked-skid) </p> | <p align="center"> [![Antonio's Unix Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white)](https://unix.stackexchange.com/users/144371/overclocked-skid) </p> | <p align="center"> [![Antonio's SoloLearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/532145) </p> |
+|                <p align="center"> [**Email**](mailto:tom.mharres@gmail.com) </p> | <p align="center"> pytom#0224 </p> | <p align="center"> [**Antônio**](https://www.linkedin.com/in/ant%C3%B4nio-martos-harres-5b85a91b4/) </p> | <p align="center"> [**Overclocked Skid**](https://stackoverflow.com/users/5951911/overclocked-skid) </p> | <p align="center"> [**Overclocked Skid**](https://unix.stackexchange.com/users/144371/overclocked-skid) </p> | <p align="center"> [**Antônio**](https://www.sololearn.com/profile/532145) </p> |
 	
 
 ## Quem sou?
@@ -35,11 +35,11 @@
 
 ## Estatística do Perfil:
 
-> ![Antonio's github trophy](https://github-profile-trophy.vercel.app/?username=wh1t3h47&row=1)
-> ![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=wh1t3h47)
-> ![Antonio's github streak](https://github-readme-streak-stats.herokuapp.com/?user=wh1t3h47)
-> 
-> [![Sparkline](https://stars.medv.io/wh1t3h47/badges.svg)](https://stars.medv.io/wh1t3h47/badges)
+> | <p align="center"> ![Antonio's github trophy](https://github-profile-trophy.vercel.app/?username=wh1t3h47&row=1) </p>    |
+> |--------------------------------------------------------------------------------------------------------------------------|
+> | <p align="center"> ![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=wh1t3h47) </p>          |
+> | <p align="center"> ![Antonio's github streak](https://github-readme-streak-stats.herokuapp.com/?user=wh1t3h47) </p>      |
+> | <p align="center"> [![Sparkline](https://stars.medv.io/wh1t3h47/badges.svg)](https://stars.medv.io/wh1t3h47/badges) </p> |
 
 >
 > # Top distros
