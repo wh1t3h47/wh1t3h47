@@ -79,7 +79,7 @@
 
 </table>
 <div style="width: 100%" align="center">
-<img alt="Antonio's github trophy" src="https://github-profile-trophy.vercel.app/?username=wh1t3h47&row=1" />
+<a href="#"> <img alt="Antonio's github trophy" src="https://github-profile-trophy.vercel.app/?username=wh1t3h47&row=1" /> </a>
 </div>
 
 ## Quem sou?
@@ -91,8 +91,8 @@
 > 
 > Minha paixão por estudar veio de minha mãe, que era doutora, mas infelizmente faleceu... Todo dia sonho em me tornar uma pessoa tão brilhante quanto ela!
 
- | <h2 align="center"> Tecnologias </h2> |
- |--------------------------------|
+ | <h2 align="center"> Tecnologias: </h2> |
+ |---------------------------------------|
  ||
  | <span align="center"> <h2 align="center"> :star::star::star::star::star: </h1> </span> <br /> <div align="center"> <a href="#"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://badges.aleen42.com/src/eslint.svg" height="28"/> <img src="https://badges.aleen42.com/src/webpack.svg" height="28" /> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" /> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /> <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" /> <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" /> <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" /> <img src="https://camo.githubusercontent.com/082dac1bf6c231aa5a3836d300de8b46ee8c6b0ac9465cfc6aed17b6a0cc5662/68747470733a2f2f73332e65752d776573742d322e616d617a6f6e6177732e636f6d2f646570656e6461626f742d696d616765732f6c6f676f2d776974682d6e616d652d686f72697a6f6e74616c2e7376673f7635" height="28" /> </a> </div> |
  ||
@@ -115,3 +115,9 @@
 
 ## Top distros:
 > <div align="center"> <a href="#" <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /> <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /><img src="https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&logo=lineageos&logoColor=white" /> <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" /> </a> </div>
+
+ | <h2 align="center"> Certificados: </h2> |
+ |-----------------------------------------|
+ ||
+ | <a href="https://www.sololearn.com/certificates/course/en/532145/1024/landscape/pdf"> <img alt="certificado JavaScript SoloLearn" src="https://www.sololearn.com/certificates/course/en/532145/1024/landscape/png" width="285" height="201" /> </a> <a href="https://www.sololearn.com/certificates/course/en/532145/1073/landscape/pdf"> <img alt="Certificado Python Core SoloLearn" src="https://www.sololearn.com/certificates/course/en/532145/1073/landscape/png" width="285" height="201"/> </a> <a href="https://www.sololearn.com/Certificate/1097-532145/pdf"> <img alt="Certificado React + Redux course SoloLearn" src="https://www.sololearn.com/Certificate/1097-532145/jpg" width="285" height="201"/> </a> <a href="https://www.sololearn.com/Certificate/1023-532145/pdf"> <img alt="Certificado CSS course SoloLearn" src="https://www.sololearn.com/Certificate/1023-532145/jpg" width="285" height="201"/> </a> <a href="https://www.sololearn.com/Certificate/1014-532145/pdf"> <img alt="Certificado HTML course SoloLearn" src="https://www.sololearn.com/Certificate/1014-532145/jpg" width="285" height="201"/> </a> <a href="https://www.sololearn.com/certificates/course/en/532145/1060/landscape/pdf"> <img alt="Certificado SQL SoloLearn" src="https://www.sololearn.com/certificates/course/en/532145/1060/landscape/png" width="285" height="201"/> </a> <a href="https://www.sololearn.com/Certificate/1089-532145/pdf"> <img alt="Certificado C course SoloLearn" src="https://www.sololearn.com/Certificate/1089-532145/jpg" width="285" height="201"/> </a> <a href="https://www.sololearn.com/Certificate/1059-532145/pdf"> <img alt="Certificado PHP SoloLearn" src="https://www.sololearn.com/Certificate/1059-532145/jpg" width="285" height="201"/> </a> |
+
