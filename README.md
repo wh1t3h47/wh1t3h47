@@ -113,6 +113,7 @@
  | <span align="center"> <h2 align="center" text-align="center"> 🐧Linux: </span>
  | <div align="center"> <a href="#" disabled="">  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>  <img src="https://www.nicepng.com/png/full/114-1142594_apparently-the-github-account-of-the-gentoo-linux.png" height="28" /> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /> <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /><img src="https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&logo=lineageos&logoColor=white" /> <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" /> </a> </a> </div> |
 
+<br />
 
 ## Estatística do Perfil:
 | <p align="center"> <a href="#" disabled=""> <img alt="Antonio's github stats" src="https://github-readme-stats.vercel.app/api?username=wh1t3h47" /> </a> </p>                    |
