@@ -1,9 +1,56 @@
-# [White Hat](https://wh1t3h47.github.io/Ab0utM3) (Antônio Martos Harres)
-
-|                                **Email**                                                                   |  **Discord**   | **Linkedin** | **StackOverflow** | **Unix StackExchange** | **SoloLearn** |
-|--------------------------------------------------------------------------------------------------------|------------|-------|------------------|--------------|-----------------------------|
-| <p align="center"> [![Antonio's Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tom.mharres@gmail.com) <p> | <p align="center"> [![Antonio's Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com) </p> | <p align="center"> [![Antonio's Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ant%C3%B4nio-martos-harres-5b85a91b4/) </p> | <p align="center"> [![Antonio's Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5951911/overclocked-skid) </p> | <p align="center"> [![Antonio's Unix Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white)](https://unix.stackexchange.com/users/144371/overclocked-skid) </p> | <p align="center"> [![Antonio's SoloLearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/532145) </p> |
-|                <p align="center"> [**Email**](mailto:tom.mharres@gmail.com) </p> | <p align="center"> pytom#0224 </p> | <p align="center"> [**Antônio**](https://www.linkedin.com/in/ant%C3%B4nio-martos-harres-5b85a91b4/) </p> | <p align="center"> [**Overclocked Skid**](https://stackoverflow.com/users/5951911/overclocked-skid) </p> | <p align="center"> [**Overclocked Skid**](https://unix.stackexchange.com/users/144371/overclocked-skid) </p> | <p align="center"> [**Antônio**](https://www.sololearn.com/profile/532145) </p> |
+<h1 align="center"> Antônio Martos Harres <br/> <a href="https://wh1t3h47.github.io/Ab0utM3"> Aka. WhiteHat </a> <br /> </h1>
+<center>
+  <table style="width:100%">
+  <tr>
+    <th> **Email** </th>
+    <th> **Linkedin** </th>
+    <th> **Discord** </th>
+    <th> **StackOverflow** </th>
+    <th> **Unix StackExchange** </th>
+    <th> **SoloLearn** </th>
+  </tr>
+  <tr>
+    <td>
+      <p align="center"> [![Antonio's Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tom.mharres@gmail.com) <p>
+    </td>
+    <td>
+      <p align="center"> [![Antonio's Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ant%C3%B4nio-martos-harres-5b85a91b4/) </p>
+    </td>
+    <td>
+      <p align="center"> [![Antonio's Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com) </p>
+    </td>
+    <td>
+      <p align="center"> [![Antonio's Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5951911/overclocked-skid) </p>
+    </td>
+    <td>
+      <p align="center"> [![Antonio's Unix Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white)](https://unix.stackexchange.com/users/144371/overclocked-skid) </p>
+    </td>
+    <td>
+      <p align="center"> [![Antonio's SoloLearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/532145) </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p align="center"> [**Email**](mailto:tom.mharres@gmail.com) </p>
+    </td>
+    <td>
+      <p align="center"> [**Antônio**](https://www.linkedin.com/in/ant%C3%B4nio-martos-harres-5b85a91b4/) </p>
+    </td>
+    <td>
+      <p align="center"> pytom#0224 </p>
+    </td>
+    <td>
+      <p align="center"> [**Overclocked Skid**](https://stackoverflow.com/users/5951911/overclocked-skid) </p>
+    </td>
+    <td>
+      <p align="center"> [**Overclocked Skid**](https://unix.stackexchange.com/users/144371/overclocked-skid) </p>
+    </td>
+    <td>
+      <p align="center"> [**Antônio**](https://www.sololearn.com/profile/532145) </p>
+    </td>
+  </tr>
+</table> 
+</center>
 	
 
 ## Quem sou?
