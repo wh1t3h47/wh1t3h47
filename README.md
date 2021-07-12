@@ -1,95 +1,87 @@
-<center>
-  <h1> Antônio Martos Harres <br/> <a href="https://wh1t3h47.github.io/Ab0utM3"> Aka. WhiteHat </a> <br /> </h1>
-</center>
-<center>
-  <table style="width:100%">
+<h1 align="center"> Antônio Martos Harres <br/> <a href="https://wh1t3h47.github.io/Ab0utM3"> Aka. WhiteHat </a> <br /> </h1>
+
+<table align="center" style="width:100%">
   <tr>
-    <th>
-      <center> <b> Email </b> </center> </th>
-    <th>
-      <center> <b> Linkedin </b> </center> </th>
-    <th>
-      <center> <b> Discord </b> </center> </th>
-    <th>
-      <center> <b> StackOverflow </b> </center> </th>
-    <th>
-      <center> <b> Unix StackExchange </b> </center> </th>
-    <th>
-      <center> <b> SoloLearn </b> </center> </th>
+    <th align="center">
+      <b> <p text-align="center"> Email </p> </b>
+    </th>
+    <th align="center">
+      <b> <p text-align="center"> Linkedin </p> </b>
+    </th>
+    <th align="center">
+      <b> <p text-align="center"> Discord </p> </b>
+    </th>
+    <th align="center">
+      <b> <p text-align="center"> StackOverflow </p> </b>
+    </th>
+    <th align="center">
+      <b> <p text-align="center"> Unix StackExchange </p> </b>
+    </th>
+    <th align="center">
+      <b> <p text-align="center"> SoloLearn </p> </b>
+    </th>
   </tr>
   <tr>
-    <td>
-      <center>
-      <a href="mailto:tom.mharres@gmail.com">
-        <p> <img alt="Antonio's Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <td align="center">
+      <a align="center" href="mailto:tom.mharres@gmail.com">
+        <p text-align="center"> <img alt="Antonio's Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
       </a>
       </center>
     </td>
-    <td>
-      <center>
-      <a href="https://www.linkedin.com/in/ant%C3%B4nio-martos-harres-5b85a91b4/">
-        <p> <img alt="Antonio's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <td align="center">
+      <a align="center" href="https://www.linkedin.com/in/ant%C3%B4nio-martos-harres-5b85a91b4/">
+        <p text-align="center"> <img alt="Antonio's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
       </center>
     </td>
-    <td>
-      <center>
-      <a href="https://discord.com">
-        <p> <img alt="Antonio's Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+    <td align="center">
+      <a align="center" href="https://discord.com">
+        <p text-align="center"> <img alt="Antonio's Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
       </a>
       </center>
     </td>
-    <td>
-      <center>
-      <a href="https://stackoverflow.com/users/5951911/overclocked-skid">
-        <p> <img alt="Antonio's Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+    <td align="center">
+      <a align="center" href="https://stackoverflow.com/users/5951911/overclocked-skid">
+        <p text-align="center"> <img alt="Antonio's Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
       </a>
       </center>
     </td>
-    <td>
-      <center>
-      <a href="https://unix.stackexchange.com/users/144371/overclocked-skid">
-        <p> <img alt="Antonio's Unix Stack Exchange" src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white" />
+    <td align="center">
+      <a align="center" href="https://unix.stackexchange.com/users/144371/overclocked-skid">
+        <p text-align="center"> <img alt="Antonio's Unix Stack Exchange" src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white" />
       </a>
       </center>
     </td>
-    <td>
-      <center>
-      <a href="https://www.sololearn.com/profile/532145">
-        <p> <img alt="Antonio's SoloLearn" src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" />
+    <td align="center">
+      <a align="center" href="https://www.sololearn.com/profile/532145">
+        <p text-align="center"> <img alt="Antonio's SoloLearn" src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" />
       </a>
       </center>
     </td>
   </tr>
   <tr>
-    <td>
-      <center>
-      <p> <a href="mailto:tom.mharres@gmail.com" >Email </a>
+    <td align="center">
+      <a align="center" href="mailto:tom.mharres@gmail.com"> <p text-align="center"> Email </p> </a>
       </center>
     </td>
-    <td>
-      <center>
-      <p> <a href="https://www.linkedin.com/in/ant%C3%B4nio-martos-harres-5b85a91b4/" >Antônio </a>
+    <td align="center">
+      <a align="center" href="https://www.linkedin.com/in/ant%C3%B4nio-martos-harres-5b85a91b4/"> <p text-align="center"> Antônio </p> </a>
       </center>
     </td>
-    <td>
-      <center>
-      <p> pytom#0224 </p>
+    <td align="center">
+      <p text-align="center"> pytom#0224 </p>
       </center>
     </td>
-    <td>
-      <center>
-      <p> <a href="https://stackoverflow.com/users/5951911/overclocked-skid" >Overclocked Skid </a>
+    <td align="center">
+      <a align="center" href="https://stackoverflow.com/users/5951911/overclocked-skid"> <p text-align="center"> Overclocked Skid </p> </a>
       </center>
     </td>
-    <td>
-      <center>
-      <p> <a href="https://unix.stackexchange.com/users/144371/overclocked-skid" >Overclocked Skid </a>
+    <td align="center">
+      <a align="center" href="https://unix.stackexchange.com/users/144371/overclocked-skid"> <p text-align="center"> Overclocked Skid </p> </a>
       </center>
     </td>
-    <td>
-      <center>
-      <p> <a href="https://www.sololearn.com/profile/532145" >Antônio </a>
+    <td align="center">
+      <a align="center" href="https://www.sololearn.com/profile/532145"> <p text-align="center"> Antônio </p> </a>
       </center>
     </td>
   </tr>
