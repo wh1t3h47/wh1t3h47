@@ -93,7 +93,7 @@
 </div>
 
 ## Quem sou?
-> Desde que tinha 6 anos lembro ser fascinado por eletrônica, tinha meu brinquedo que era um mini laboratório de eletrônica.
+> Desde que tinha 6 anos lembro ser fascinado por eletrônica, tinha meu brinquedo que era um mini laboratório de eletrônica, se chamava `experiências do professor`, montei diversos circuitos nesse e posteriormente no `130-in-1` (era um laboratório mais complexo com portas lógicas e OP-AMP).
 >
 > Aos 12 anos descobri um livro do Malvino e outro sobre microcontroladores e microprocessadores, aprendi muito sobre o funcionamento e lógica dos computadores e como construir uma CPU de arquitetura SAP (Simple As Possible).
 >
