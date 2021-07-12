@@ -77,7 +77,9 @@
     </td>
   </tr>
 
-</table> 
+</table>
+
+<span align="center"> [![Antonio's github trophy](https://github-profile-trophy.vercel.app/?username=wh1t3h47&row=1)](#) </sp>
 	
 
 ## Quem sou?
@@ -101,9 +103,8 @@
 
 
 ## Estatística do Perfil:
-| <p align="center"> [![Antonio's github trophy](https://github-profile-trophy.vercel.app/?username=wh1t3h47&row=1)](#) </p>              |
-|-----------------------------------------------------------------------------------------------------------------------------------------|
 | <p align="center"> [![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=wh1t3h47)](#) </p>                    |
+|-----------------------------------------------------------------------------------------------------------------------------------------|
 | <p align="center"> [![Antonio's github streak](https://github-readme-streak-stats.herokuapp.com/?user=wh1t3h47)](#) </p>                |
 |                                                                                                                                         |
 | <h3 align="center"> Estatística de repositórios: </h3>                                                                                  |
