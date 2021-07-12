@@ -115,12 +115,12 @@
 <br />
 
 ## Estatística do Perfil:
-| <p align="center"> <a href="#" disabled=""> <img alt="Antonio's github stats" src="https://github-readme-stats.vercel.app/api?username=wh1t3h47&count_private=true" /> </a> </p>                    |
+| <span align="center"> <a href="#" disabled=""> <img align="center" alt="Status de Antônio no github" src="https://github-readme-stats.vercel.app/api?username=wh1t3h47&count_private=true" /> </a> </span>                    |
 |-----------------------------------------------------------------------------------------------------------------------------------------|
-| <p align="center"> <a href="#" disabled=""> <img alt="Antonio's github streak" src="https://github-readme-streak-stats.herokuapp.com/?user=wh1t3h47&count_private=true" /> </a> </p>                |
+| <div align="center"> <a href="#" disabled=""> <img align="center" alt="Dias seguidos programando" src="https://github-readme-streak-stats.herokuapp.com/?user=wh1t3h47&count_private=true" /> </a> </div>                |
 |                                                                                                                                         |
 | <h3 align="center"> Estatística dos meus repositórios: </h3>                                                                            |
-| <a href="#" disabled=""> <img src="./Screenshot_2021-07-10 Github Profile Summary - Visualize your GitHub profile.png" /> </a>                      |
+| <span align="center"> <a href="#" disabled=""> <img align="center" alt="Vários gráficos de commit por repositório, analisando as linguagens utilizadas e frequencia de commits" src="./Screenshot_2021-07-10 Github Profile Summary - Visualize your GitHub profile.png" /> </a> </span>                     |
 
 
 <br />
