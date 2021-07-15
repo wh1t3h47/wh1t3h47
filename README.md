@@ -68,7 +68,7 @@
 
   <tr>
     <td align="center">
-      <a align="center" href="mailto:tom.mharres@gmail.com"> <span align="center" text-align="center"> Email </span> </a>
+      <a align="center" href="mailto:tom.mharres@gmail.com"> <span align="center" text-align="center"> tom.mharres </span> </a>
     </td>
     <td align="center">
       <a align="center" href="https://www.linkedin.com/in/ant%C3%B4nio-martos-harres-5b85a91b4/"> <span align="center" text-align="center"> Antônio </span> </a>
