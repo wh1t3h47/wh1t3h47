@@ -92,7 +92,7 @@
  <a href="#" disabled=""> <img alt="Trófeus do Github de Antônio" src="https://github-profile-trophy.vercel.app/?username=wh1t3h47&row=1&count_private=true" /> </a>
 </div>
 
-## Quem sou?
+## Quem sou eu?
 
 > Desde que tinha 6 anos lembro ser fascinado por eletrônica, tinha meu brinquedo que era um mini laboratório de eletrônica, se chamava `experiências do professor`, montei diversos circuitos nesse e posteriormente no `130-in-1` (era um laboratório mais complexo com portas lógicas e OP-AMP).
 >
