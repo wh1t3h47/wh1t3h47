@@ -98,7 +98,9 @@
 >
 > Aos 12 anos descobri um livro do Malvino e outro sobre microcontroladores e microprocessadores, aprendi muito sobre o funcionamento e lógica dos computadores e como construir uma CPU de arquitetura SAP (Simple As Possible), tinha um grande interesse em programação e Linux, especialmente em bash e Xubuntu.
 >
-> Ao completar 14 anos comecei a aprender Python e me interessar por cyber segurança, python tem um mercado enorme, principalmente em machine learning e segurança da informação, desde então me apaixonei pelo que eu conseguia fazer com apenas um tablet e uma linha de comando. Criei alguns joguinhos bobos usando python e ncurses, fiz até animações em texto!
+> Ao completar 14 anos comecei a aprender Python e me interessar por cyber segurança, python tem um mercado enorme, principalmente em machine learning e segurança da informação, desde então me apaixonei pelo que eu conseguia fazer com apenas um tablet e uma linha de comando. Criei alguns joguinhos bobos usando Python e ncurses, fiz até animações em texto!
+>
+> Mas o momento mais empolgante da minha vida em relação a programação não veio até 2015, quando tive uma resposta aceita no Unix Stack Exchange a respeito de X-Server, systemd-nspawn, virtualização e Linux. Essa resposta atraiu atenção de mais ou menos 3 mil pessoas, o que foi uma honra para mim!
 >
 > Enfim aos 17 anos li o livro do Bjarne Stroustroup sobre C++, mas preferi focar em C para desenvolvimento, por sua simplicidade e poder; Nessa idade também estava estudando Django, html, javascript e css, em um tutorial sobre como fazer um pequeno blog pessoal.
 >
