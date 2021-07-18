@@ -96,9 +96,11 @@
 
 > Desde que tinha 6 anos lembro ser fascinado por eletrônica, tinha meu brinquedo que era um mini laboratório de eletrônica, se chamava `experiências do professor`, montei diversos circuitos nesse e posteriormente no `130-in-1` (era um laboratório mais complexo com portas lógicas e OP-AMP).
 >
-> Aos 12 anos descobri um livro do Malvino e outro sobre microcontroladores e microprocessadores, aprendi muito sobre o funcionamento e lógica dos computadores e como construir uma CPU de arquitetura SAP (Simple As Possible).
+> Aos 12 anos descobri um livro do Malvino e outro sobre microcontroladores e microprocessadores, aprendi muito sobre o funcionamento e lógica dos computadores e como construir uma CPU de arquitetura SAP (Simple As Possible), tinha um grande interesse em programação e Linux, especialmente em bash e Xubuntu.
 >
-> Quando tinha 14 anos aprendi a programar em Python, mas antes disso tinha experiência com Linux e bash.
+> Ao completar 14 anos comecei a aprender Python, desde então me apaixonei pelo que eu conseguia fazer com apenas um tablet e uma linha de comando. Criei alguns joguinhos bobos usando python e ncurses, fiz até animações em texto!
+>
+> Enfim aos 17 anos li o livro do Bjarne Stroustroup sobre C++, mas preferi focar em C para desenvolvimento, por sua simplicidade e poder; Nessa idade também estava estudando Django, html, javascript e css, em um tutorial sobre como fazer um pequeno blog pessoal.
 >
 > Minha paixão por estudar veio de minha mãe, que era doutora, mas infelizmente faleceu... Todo dia sonho em me tornar uma pessoa tão brilhante quanto ela!
 
