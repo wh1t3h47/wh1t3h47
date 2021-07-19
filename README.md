@@ -101,6 +101,11 @@
 > 
 > Minha paixão por estudar veio de minha mãe, que era doutora, mas infelizmente faleceu... Todo dia sonho em me tornar uma pessoa tão brilhante quanto ela!
 
+<div align="center">
+  <a href="./cv.pdf"> <img src="./output.png" alt="Meu currículo, clique aqui para abrir" /> </a>
+</div>
+
+
  | <h2 align="center"> Tecnologias: </h2> |
  |---------------------------------------|
  ||
