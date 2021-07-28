@@ -136,6 +136,8 @@
 |                                                                                                                                                                                                                                                                                          |
 | <h3 align="center"> Estatística dos meus repositórios: </h3>                                                                                                                                                                                                                             |
 | <span align="center"> <a href="#" disabled=""> <img align="center" alt="Vários gráficos de commit por repositório, analisando as linguagens utilizadas e frequencia de commits" src="./Screenshot_2021-07-10 Github Profile Summary - Visualize your GitHub profile.png" /> </a> </span> |
+| <div align="center"> <a href="#" disabled=""> <img align="center" alt="Gráfico de contribuições" src="https://raw.githubusercontent.com/wh1t3h47/wh1t3h47/master/profile-summary-card-output/default/0-profile-details.svg" /> <!-- [![Top linguagens por repositório](https://raw.githubusercontent.com/wh1t3h47/wh1t3h47/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![Top linguagens por commit](https://raw.githubusercontent.com/wh1t3h47/wh1t3h47/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) --> <img alt="Commits por hora (UTC)" src="https://raw.githubusercontent.com/wh1t3h47/wh1t3h47/master/profile-summary-card-output/default/4-productive-time.svg" align="center" /> </a> </div> |
+
 
 <br />
 
