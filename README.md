@@ -130,15 +130,17 @@
 
 ## Estatística do Perfil:
 
-| <span align="center"> <a href="#" disabled=""> <img align="center" alt="Status de Antônio no github" src="https://github-readme-stats.vercel.app/api?username=wh1t3h47&count_private=true" /> </a> </span>                                                                               |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <div align="center"> <a href="#" disabled=""> <img align="center" alt="Dias seguidos programando" src="https://github-readme-streak-stats.herokuapp.com/?user=wh1t3h47&count_private=true" /> </a> </div>                                                                                |
+
+| <span align="center"> <a href="#" disabled=""> <img align="center" alt="Gráfico de contribuições" src="https://raw.githubusercontent.com/wh1t3h47/wh1t3h47/master/profile-summary-card-output/default/0-profile-details.svg" /> </span> </a> |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <span align="center"> <a href="#" disabled=""> </a> </span>                                                                               | 
+| <div align="center"> <a href="#" disabled=""> <img align="center" alt="Status de Antônio no github" src="https://github-readme-stats.vercel.app/api?username=wh1t3h47&count_private=true" /> <img align="center" alt="Dias seguidos programando" src="https://github-readme-streak-stats.herokuapp.com/?user=wh1t3h47&count_private=true" /> </a> </div>                                                                                |
 |                                                                                                                                                                                                                                                                                          |
 | <h3 align="center"> Estatística dos meus repositórios: </h3>                                                                                                                                                                                                                             |
 | <h4 align="center"> Públicos: </h4> |
 | <span align="center"> <a href="#" disabled=""> <img align="center" alt="Vários gráficos de commit por repositório, analisando as linguagens utilizadas e frequencia de commits" src="./Screenshot_2021-07-10 Github Profile Summary - Visualize your GitHub profile.png" /> </a> </span> |
 | <h4 align="center"> Públicos + Privados: </h4> |
-| <div align="center"> <a href="#" disabled=""> <img align="center" alt="Gráfico de contribuições" src="https://raw.githubusercontent.com/wh1t3h47/wh1t3h47/master/profile-summary-card-output/default/0-profile-details.svg" /> <img alt="Top linguagens por repositório" src="https://raw.githubusercontent.com/wh1t3h47/wh1t3h47/master/profile-summary-card-output/default/1-repos-per-language.svg" align="center" /> <img alt="Top linguagens por commit" src="https://raw.githubusercontent.com/wh1t3h47/wh1t3h47/master/profile-summary-card-output/default/2-most-commit-language.svg" align="center" /> <img alt="Commits por hora (UTC)" src="https://raw.githubusercontent.com/wh1t3h47/wh1t3h47/master/profile-summary-card-output/default/4-productive-time.svg" align="center" /> </a> </div> |
+| <div align="center"> <a href="#" disabled=""> <img alt="Top linguagens por repositório" src="https://raw.githubusercontent.com/wh1t3h47/wh1t3h47/master/profile-summary-card-output/default/1-repos-per-language.svg" align="center" /> <img alt="Top linguagens por commit" src="https://raw.githubusercontent.com/wh1t3h47/wh1t3h47/master/profile-summary-card-output/default/2-most-commit-language.svg" align="center" /> <img alt="Commits por hora (UTC)" src="https://raw.githubusercontent.com/wh1t3h47/wh1t3h47/master/profile-summary-card-output/default/4-productive-time.svg" align="center" /> </a> </div> |
 
 
 <br />
