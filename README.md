@@ -128,12 +128,11 @@
 
 <br />
 
-## Estatística do Perfil:
+## Gráficos
 
-
-| <span align="center"> <a href="#" disabled=""> <img align="center" alt="Gráfico de contribuições" src="https://raw.githubusercontent.com/wh1t3h47/wh1t3h47/master/profile-summary-card-output/default/0-profile-details.svg" /> </span> </a> |
+| Estatística do Perfil: |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <span align="center"> <a href="#" disabled=""> </a> </span>                                                                               | 
+| <div align="center"> <a href="#" disabled=""> <img align="center" alt="Gráfico de contribuições" src="https://raw.githubusercontent.com/wh1t3h47/wh1t3h47/master/profile-summary-card-output/default/0-profile-details.svg" /> </div> </a> |                                                                            | 
 | <div align="center"> <a href="#" disabled=""> <img align="center" alt="Status de Antônio no github" src="https://github-readme-stats.vercel.app/api?username=wh1t3h47&count_private=true" /> <img align="center" alt="Dias seguidos programando" src="https://github-readme-streak-stats.herokuapp.com/?user=wh1t3h47&count_private=true" /> </a> </div>                                                                                |
 |                                                                                                                                                                                                                                                                                          |
 | <h3 align="center"> Estatística dos meus repositórios: </h3>                                                                                                                                                                                                                             |
