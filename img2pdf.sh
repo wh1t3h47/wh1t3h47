@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/env bash
 
 # Converts a png to PDF
 # AUTHOR: @wh1t3h47 - github.com/wh1t3h47
