@@ -94,7 +94,7 @@
 
 <div>
   <h2 align="left"> Quem sou eu?</h2>
-  <a href="#"> <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=page.id=wh1t3h47" alt="número de visitantes perfil"/> </a>
+  <!-- a href="#"> <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=page.id=wh1t3h47" alt="número de visitantes perfil"/> </a-->
 </div>
 
 <img align="center" alt="Eu e minha irmã quando eramos crianças mexendo no laboratório de eletrônica" src="./IMG-20231022-WA0010.jpg" />
