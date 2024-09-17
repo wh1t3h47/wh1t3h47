@@ -34,7 +34,7 @@
     <td align="center">
       <div align="center" text-align="center">
         <a href="https://www.linkedin.com/in/ant%C3%B4nio-martos-harres-5b85a91b4/">
-          <img align="center" alt="Linkedin para contato" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="87" height="28" />
+          <img align="center" alt="Linkedin para contato" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="92" height="28" />
         </a>
       </div>
     </td>
@@ -48,19 +48,19 @@
     <td align="center">
       <div text-align="center">
         <a href="https://stackoverflow.com/users/5951911/overclocked-skid">
-          <img align="center" alt="Conta no Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" width="87" height="28" />
+          <img align="center" alt="Conta no Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" width="100" height="28" />
         </a>
       </div>
     </td>
     <td align="center">
         <a href="https://unix.stackexchange.com/users/144371/overclocked-skid">
-          <img align="center" alt="Conta na Unix Stack Exchange" src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white" width="87" height="28" />
+          <img align="center" alt="Conta na Unix Stack Exchange" src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white" width="100" height="28" />
         </a>
     </td>
     <td align="center">
       <div align="center" text-align="center">
         <a href="https://www.sololearn.com/profile/532145">
-          <img align="center" alt="Conta na SoloLearn" src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" width="87" height="28" />
+          <img align="center" alt="Conta na SoloLearn" src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" width="94" height="28" />
         </a>
       </div>
     </td>
