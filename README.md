@@ -10,9 +10,6 @@
       <b align="center" text-align="center"> Linkedin </b>
     </th>
     <th align="center">
-      <b align="center" text-align="center"> Discord </b>
-    </th>
-    <th align="center">
       <b align="center" text-align="center"> StackOverflow </b>
     </th>
     <th align="center">
@@ -20,6 +17,9 @@
     </th>
     <th align="center">
      <b align="center" text-align="center"> SoloLearn </b>
+    </th>
+    <th align="center">
+      <b align="center" text-align="center"> Discord </b>
     </th>
   </tr>
 
@@ -39,13 +39,6 @@
       </div>
     </td>
     <td align="center">
-      <div align="center" text-align="center">
-        <a href="#" disabled="">
-          <img align="center" alt="Discord para contato" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="87" height="28" />
-        </a>
-      </div>
-    </td>
-    <td align="center">
       <div text-align="center">
         <a href="https://stackoverflow.com/users/5951911/overclocked-skid">
           <img align="center" alt="Conta no Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" width="100" height="28" />
@@ -61,6 +54,13 @@
       <div align="center" text-align="center">
         <a href="https://www.sololearn.com/profile/532145">
           <img align="center" alt="Conta na SoloLearn" src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" width="94" height="28" />
+        </a>
+      </div>
+    </td>
+    <td align="center">
+      <div align="center" text-align="center">
+        <a href="#" disabled="">
+          <img align="center" alt="Discord para contato" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="87" height="28" />
         </a>
       </div>
     </td>
